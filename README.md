@@ -1,8 +1,9 @@
 # Hi there! 👋 I'm Aline Acioly
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Python+%7C+SQL+%7C+C%2B%2B+Developer;Turning+Data+into+Insights+%F0%9F%94%8D;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Python+%7C+SQL+%7C+C%2B%2B+Developer;Turning+Data+into+Insights+%F0%9F%94%8D;Always+learning+something+new!" alt="Typing SVG" />
 </div>
+
 
 ## 🔬 About Me
 
